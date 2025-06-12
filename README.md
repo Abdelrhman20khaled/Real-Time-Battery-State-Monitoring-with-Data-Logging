@@ -106,12 +106,6 @@ The ESP32 supports:
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ## Contributing
 
 Pull requests are welcome! Feel free to open an issue for feature suggestions or bug reports.
