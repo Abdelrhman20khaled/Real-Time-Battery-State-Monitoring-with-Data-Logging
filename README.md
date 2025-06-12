@@ -53,8 +53,8 @@ A compact and feature-rich ESP32-based battery monitoring system designed for re
 | ACS712 Module          | Current sensing (5A max)         |
 | Voltage Divider        | For battery voltage monitoring   |
 | MAX6675 + Thermocouple | Temperature measurement          |
-| RTC Module (e.g., DS3231) | Time tracking for logging     |
-| EEPROM (e.g., 24C32)   | Non-volatile data storage        |
+| RTC Module (DS3231) | Time tracking for logging     |
+| EEPROM (24C32)   | Non-volatile data storage        |
 | LED Indicator          | Charging plug status             |
 | TTL Interface          | ESP32 onboard programming        |
 | 12V/2A Battery         | Backup power source              |
