@@ -1,6 +1,6 @@
 # Real Time Battery State Monitoring with Data Logging
 
-A compact and feature-rich ESP32-based battery monitoring system designed for real-time tracking of battery performance, charging/discharging cycles, and data logging with timestamp support.
+A compact and feature-rich ESP32-based battery monitoring system built on a **double-layer PCB**, designed for real-time tracking of battery performance, charging/discharging cycles, and data logging with timestamp support.
 
 ---
 
@@ -34,7 +34,7 @@ A compact and feature-rich ESP32-based battery monitoring system designed for re
 
 ---
 
-## Applications
+##Applications
 
 - Battery health monitoring
 - IoT-enabled energy tracking
@@ -45,6 +45,8 @@ A compact and feature-rich ESP32-based battery monitoring system designed for re
 
 ## Hardware Components
 
+This project uses a **custom-designed, double-layer PCB** with the following components:
+
 | Component              | Description                      |
 |------------------------|----------------------------------|
 | ESP32 Module           | Microcontroller with WiFi & BT   |
@@ -53,8 +55,8 @@ A compact and feature-rich ESP32-based battery monitoring system designed for re
 | ACS712 Module          | Current sensing (5A max)         |
 | Voltage Divider        | For battery voltage monitoring   |
 | MAX6675 + Thermocouple | Temperature measurement          |
-| RTC Module (DS3231) | Time tracking for logging     |
-| EEPROM (24C32)   | Non-volatile data storage        |
+| RTC Module (DS3231)    | Time tracking for logging        |
+| EEPROM (24C32)         | Non-volatile data storage        |
 | LED Indicator          | Charging plug status             |
 | TTL Interface          | ESP32 onboard programming        |
 | 12V/2A Battery         | Backup power source              |
@@ -62,8 +64,10 @@ A compact and feature-rich ESP32-based battery monitoring system designed for re
 ### Hardware Images
 
 - <img src="BMS Board Design/3D Full Board.jpg" width="500"/>
-  
+
 - <img src="BMS Board Design/Full Board.png" width="500"/>
+
+
 ---
 
 ## Setup Instructions
