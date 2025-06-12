@@ -61,12 +61,12 @@ A compact and feature-rich ESP32-based battery monitoring system designed for re
 
 ### Hardware Images
 
-- **3D Model**: Contains the silkscreen, and designators for each element
+- **3D Model**
               <img src="BMS Board Design/3D Full Board.jpg" width="500"/>
-- **Fully Assembled**: Includes critical signal traces, high-speed differential pairs, and key components.
+- **Fully Assembled**
               <img src="BMS Board Design/Full Board.png" width="500"/>
-- **Fully Assembled & Working Board**: A complete ground plane for signal return paths and noise suppression.
-              <img src="BMS Board Design/Full with Battery.png" width="500"/>
+- **Fully Assembled & Working Board**
+              <img src="BMS Board Design/Full Board.png" width="500"/>
 
 ---
 
