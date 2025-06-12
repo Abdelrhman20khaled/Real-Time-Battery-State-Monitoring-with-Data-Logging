@@ -1,10 +1,10 @@
-# 🔋 Real Time Battery State Monitoring with Data Logging
+# Real Time Battery State Monitoring with Data Logging
 
 A compact and feature-rich ESP32-based battery monitoring system designed for real-time tracking of battery performance, charging/discharging cycles, and data logging with timestamp support.
 
 ---
 
-## ⚙️ Features
+## Features
 
 - **Power Supply**
   - 5V/5A input via USB Type-C
@@ -34,7 +34,7 @@ A compact and feature-rich ESP32-based battery monitoring system designed for re
 
 ---
 
-## 📦 Applications
+## Applications
 
 - Battery health monitoring
 - IoT-enabled energy tracking
@@ -43,7 +43,7 @@ A compact and feature-rich ESP32-based battery monitoring system designed for re
 
 ---
 
-## 🧰 Hardware Components
+## Hardware Components
 
 | Component              | Description                      |
 |------------------------|----------------------------------|
@@ -59,16 +59,17 @@ A compact and feature-rich ESP32-based battery monitoring system designed for re
 | TTL Interface          | ESP32 onboard programming        |
 | 12V/2A Battery         | Backup power source              |
 
-### 🔧 Hardware Images
+### Hardware Images
 
 <p float="left">
-  <img src="BMS Board Design\3D Full Board" alt="3D Full Board" width="100" height="200" />
-  <img src="image2_url" alt="Hardware Image 2" width="100" height="200" />
+  <img src="BMS Board Design/3D Full Board.png" alt="3D Full Board" width="100" height="200" />
+  <img src="BMS Board Design/Full Board.png" alt="Full Board" width="100" height="200" />
+  <img src="BMS Board Design/Full with Battery.png" alt="Full with Battery" width="100" height="200" />
 </p>
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 1. **Power the Circuit**  
    Connect a 5V/5A USB-C adapter or use the 12V battery backup.
@@ -87,7 +88,7 @@ A compact and feature-rich ESP32-based battery monitoring system designed for re
 
 ---
 
-## 📡 Communication
+## Communication
 
 The ESP32 supports:
 - **UART**: Serial debugging and communication
@@ -96,7 +97,7 @@ The ESP32 supports:
 
 ---
 
-## 📈 Data Logging
+## Data Logging
 
 - Logs current, voltage, and temperature readings.
 - Stores data with timestamps in EEPROM.
@@ -104,18 +105,18 @@ The ESP32 supports:
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome! Feel free to open an issue for feature suggestions or bug reports.
 
 ---
 
-## 📧 Contact
+## Contact
 
 For questions or support, please reach out to [abdelrahmankh2025@gmail.com].
