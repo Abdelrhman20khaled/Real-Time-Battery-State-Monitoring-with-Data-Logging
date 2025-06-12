@@ -1,6 +1,6 @@
-# Real Time Battery State Monitoring with Data Logging
+# 🔋 Real Time Battery State Monitoring with Data Logging
 
-A compact and feature rich ESP32-based battery monitoring system designed for real time tracking of battery performance, charging/discharging cycles, and data logging with timestamp support.
+A compact and feature-rich ESP32-based battery monitoring system designed for real-time tracking of battery performance, charging/discharging cycles, and data logging with timestamp support.
 
 ---
 
@@ -45,19 +45,26 @@ A compact and feature rich ESP32-based battery monitoring system designed for re
 
 ## 🧰 Hardware Components
 
-| Component             | Description                       |
-|----------------------|-----------------------------------|
-| ESP32 Module          | Microcontroller with WiFi & BT   |
-| USB Type-C Connector | Power input (5V/5A)              |
-| LDO Regulator         | 3.3V output for ESP32 & sensors  |
-| ACS712 Module         | Current sensing (5A max)         |
-| Voltage Divider       | For battery voltage monitoring   |
-| MAX6675 + Thermocouple| Temperature measurement          |
-| RTC Module (e.g., DS3231)| Time tracking for logging    |
-| EEPROM (e.g., 24C32)  | Non-volatile data storage        |
-| LED Indicator         | Charging plug status             |
-| TTL Interface         | ESP32 onboard programming        |
-| 12V/2A Battery        | Backup power source              |
+| Component              | Description                      |
+|------------------------|----------------------------------|
+| ESP32 Module           | Microcontroller with WiFi & BT   |
+| USB Type-C Connector   | Power input (5V/5A)              |
+| LDO Regulator          | 3.3V output for ESP32 & sensors  |
+| ACS712 Module          | Current sensing (5A max)         |
+| Voltage Divider        | For battery voltage monitoring   |
+| MAX6675 + Thermocouple | Temperature measurement          |
+| RTC Module (e.g., DS3231) | Time tracking for logging     |
+| EEPROM (e.g., 24C32)   | Non-volatile data storage        |
+| LED Indicator          | Charging plug status             |
+| TTL Interface          | ESP32 onboard programming        |
+| 12V/2A Battery         | Backup power source              |
+
+### 🔧 Hardware Images
+
+<p float="left">
+  <img src="BMS Board Design\3D Full Board" alt="3D Full Board" width="100" height="200" />
+  <img src="image2_url" alt="Hardware Image 2" width="100" height="200" />
+</p>
 
 ---
 
@@ -112,4 +119,3 @@ Pull requests are welcome! Feel free to open an issue for feature suggestions or
 ## 📧 Contact
 
 For questions or support, please reach out to [abdelrahmankh2025@gmail.com].
-
