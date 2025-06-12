@@ -62,8 +62,11 @@ A compact and feature-rich ESP32-based battery monitoring system designed for re
 ### Hardware Images
 
 - **3D Model**:
+  
               <img src="BMS Board Design/3D Full Board.jpg" width="500"/>
-- **Fully Assembled**:
+  
+- **Fully Assembled**
+  
               <img src="BMS Board Design/Full Board.png" width="500"/>
 ---
 
