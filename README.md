@@ -1,6 +1,6 @@
 # Real Time Battery State Monitoring with Data Logging
 
-A compact and feature-rich ESP32-based battery monitoring system designed for real-time tracking of battery performance, charging/discharging cycles, and data logging with timestamp support.
+A compact and feature rich ESP32-based battery monitoring system designed for real time tracking of battery performance, charging/discharging cycles, and data logging with timestamp support.
 
 ---
 
@@ -97,14 +97,6 @@ The ESP32 supports:
 
 ---
 
-## 🧪 Future Improvements
-
-- Add OLED/Nextion display for live stats
-- Integrate cloud dashboard for remote monitoring
-- Implement low-power modes and alerts
-
----
-
 ## 📝 License
 
 This project is licensed under the MIT License.
@@ -119,5 +111,5 @@ Pull requests are welcome! Feel free to open an issue for feature suggestions or
 
 ## 📧 Contact
 
-For questions or support, please reach out to [your_email@example.com].
+For questions or support, please reach out to [abdelrahmankh2025@gmail.com].
 
